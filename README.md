@@ -1,4 +1,4 @@
 # GameStick Assets
 Assets such as forwarders (APK launcher for actual GameStick games), images and metadata from Playjam GameStick games. 
 
-These files are intended for use in the [GameStick Fans project](https://codeberg.org/gamestick-fans), the [ouya-game-data project](https://github.com/ouya-saviors/ouya-game-data)
+These files are intended for use in the [GameStick Fans project](https://codeberg.org/gamestick-fans) and the [ouya-game-data project](https://github.com/ouya-saviors/ouya-game-data)
