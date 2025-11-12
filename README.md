@@ -21,6 +21,9 @@ Fox Tales 1.03.apk<br/>
 Galaga Special Edition 1.0.1.apk<br/>
 Greedy Mouse 1.8.apk<br/>
 Icy Tower 1.2.8.apk<br/>
+Magic Rampage 1.8.5.apk<br/>
+Magnetoid 1.0.9.apk<br/>
+Metaloid Reactor Guardian 1.0.3.apk<br/>
 Particle Arcade Shooter 2.1.apk<br/>
 POP SnF 2.0.1.apk
 Reckless Getaway 1.0.0.apk
@@ -29,7 +32,6 @@ Riptide GP 1.6.2.apk<br/>
 RiseOfGlory 1.0.0.apk<br/>
 Ski Safari 1.4.2.apk<br/>
 SkyHero 1.0.apk<br/>
-Slingshot Racing 1.3.4.1.apk<br/>
 SQ2k 1.32.apk<br/>
 Swamp Golf 1.0.apk
 </details>
@@ -60,7 +62,9 @@ Invisible Munky 2 1.0.apk<br/>
 It Takes Two 1.0.apk<br/>
 Karls Tiny Adventure 1.0.apk<br/>
 Knightmare Tower 1.0.apk<br/>
+Kosmik Revenge 1.2.0.apk<br/>
 Maldita Castilla 1.1.0.apk<br/>
+MiniSquadron! 1.18.1.apk<br/>
 Poperly 1.1.apk<br/>
 Puzzle 2 1.0.0.apk<br/>
 Quantic Pinball 1.03.apk<br/>
@@ -73,14 +77,6 @@ Super Mega Worm 1.1.2.apk
 
 <details>
 <summary>Games not tested so far</summary>
-Kosmik Revenge 1.2.0.apk<br/>
-Love 1.0.8.apk<br/>
-LvLn 1.3.5.apk<br/>
-Magic Rampage 1.8.5.apk<br/>
-Magnetoid 1.0.9.apk<br/>
-Metaloid Reactor Guardian 1.0.3.apk<br/>
-MIMPI 1.0.3.apk<br/>
-MiniSquadron! 1.18.1.apk<br/>
 Muffin Knight 1.9.1.apk<br/>
 Soccertron 14.07.28.apk<br/>
 SoldierNightmare 4.0.apk<br/>
