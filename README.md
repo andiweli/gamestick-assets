@@ -4,40 +4,36 @@ Assets such as forwarders (APK launcher for actual GameStick games on OUYA), ima
 These files are intended for use in the [GameStick Fans project](https://codeberg.org/gamestick-fans) and the [ouya-game-data project](https://github.com/ouya-saviors/ouya-game-data)
 
 <details>
-<summary>Games with planned launcher</summary>
-Animal Battle 1.0.7.apk<br/>
-Asteroid 2012 3D 1.0.6.apk<br/>
-Battlebow Shoot the Demons HD 2.1.apk<br/>
-Bereits auf OUYA<br/>
-Bionfly 1.2.0.apk<br/>
+<summary> ✅ Games with launcher</summary>
 Dark Incursion 1.0.7.apk<br/>
 Expendable Rearmed 1.1.3.apk<br/>
-Falling Bird 1.3.apk<br/>
-FC-1986 1.0.apk<br/>
-Fertige Launcher<br/>
 Final Fwy 2R 1.8.12.0.apk<br/>
 Fist Of Awesome 1.1.apk<br/>
-Fox Tales 1.03.apk<br/>
 Galaga Special Edition 1.0.1.apk<br/>
-Greedy Mouse 1.8.apk<br/>
+Particle Arcade Shooter 2.1.apk<br/>
+POP SnF 2.0.1.apk<br/>
+Reckless Getaway 1.0.0.apk<br/>
+Riptide GP 1.6.2.apk<br/>
+RiseOfGlory 1.0.0.apk<br/>
+Ski Safari 1.4.2.apk<br/>
+</details>
+
+<details>
+<summary> ⌛ Games with planned launcher</summary>
+Animal Battle 1.0.7.apk<br/>
+Battlebow Shoot the Demons HD 2.1.apk<br/>
+Bionfly 1.2.0.apk<br/>
+Falling Bird 1.3.apk<br/>
+Fox Tales 1.03.apk<br/>
 Icy Tower 1.2.8.apk<br/>
 Magic Rampage 1.8.5.apk<br/>
 Magnetoid 1.0.9.apk<br/>
 Metaloid Reactor Guardian 1.0.3.apk<br/>
-Particle Arcade Shooter 2.1.apk<br/>
-POP SnF 2.0.1.apk
-Reckless Getaway 1.0.0.apk
 Retroid 1.0.0.apk<br/>
-Riptide GP 1.6.2.apk<br/>
-RiseOfGlory 1.0.0.apk<br/>
-Ski Safari 1.4.2.apk<br/>
-SkyHero 1.0.apk<br/>
-SQ2k 1.32.apk<br/>
-Swamp Golf 1.0.apk
 </details>
 
 <details>
-<summary>Games already available native on OUYA (no launcher planned)</summary>
+<summary> 🎮 Games already available native on OUYA (no launcher planned)</summary>
 100 Rogues 1.0.apk<br/>
 123 Animal Math Games for Kids 1.2.apk<br/>
 4-Color Taxi 1.0.apk<br/>
@@ -51,8 +47,10 @@ Beta Collexion 1.0.apk<br/>
 BlastTrax 1.2.apk<br/>
 Experiment 1.4.1.apk<br/>
 Fishy Rush 1.0.2.apk<br/>
+FC-1986 1.0.apk<br/>
 FlyingЪtoЪtheЪMoon 1.115.apk<br/>
 Futrino 1.0.apk<br/>
+Greedy Mouse 1.8.apk<br/>
 Greenies Little Adventure 1.0.apk<br/>
 Harpoons 1.0.apk<br/>
 Hero of Many 1.04.apk<br/>
@@ -72,11 +70,13 @@ Retroball 1.1.apk<br/>
 Royal Offense 1.652.apk<br/>
 Saturday Morning RPG 1.2e.apk<br/>
 Sheep in Hell 1.1.1.apk<br/>
-Super Mega Worm 1.1.2.apk
+Super Mega Worm 1.1.2.apk<br/>
+SQ2k 1.32.apk<br/>
+Swamp Golf 1.0.apk
 </details>
 
 <details>
-<summary>Games not tested so far</summary>
+<summary> ❓ Games not tested so far</summary>
 Muffin Knight 1.9.1.apk<br/>
 Soccertron 14.07.28.apk<br/>
 SoldierNightmare 4.0.apk<br/>
@@ -96,5 +96,6 @@ Tales of Illyria 1 3.57.apk<br/>
 Tales of Illyria 2 3.55.apk
 </details>
 
-Games not listed here aren't tested but not compatible/ major flaws/ no supported controller/ etc.
+> [!NOTE]
+> Games not listed here are tested but not compatible/ have major flaws/ no supported controller/ lags / etc.
 
