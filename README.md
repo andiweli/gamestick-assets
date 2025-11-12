@@ -21,21 +21,15 @@ Ski Safari 1.4.2.apk<br/>
 <details>
 <summary>Games with planned launcher</summary>
 Animal Battle 1.0.7.apk<br/>
-Asteroid 2012 3D 1.0.6.apk<br/>
 Battlebow Shoot the Demons HD 2.1.apk<br/>
 Bionfly 1.2.0.apk<br/>
 Falling Bird 1.3.apk<br/>
-FC-1986 1.0.apk<br/>
 Fox Tales 1.03.apk<br/>
-Greedy Mouse 1.8.apk<br/>
 Icy Tower 1.2.8.apk<br/>
 Magic Rampage 1.8.5.apk<br/>
 Magnetoid 1.0.9.apk<br/>
 Metaloid Reactor Guardian 1.0.3.apk<br/>
 Retroid 1.0.0.apk<br/>
-SkyHero 1.0.apk<br/>
-SQ2k 1.32.apk<br/>
-Swamp Golf 1.0.apk
 </details>
 
 <details>
@@ -53,8 +47,10 @@ Beta Collexion 1.0.apk<br/>
 BlastTrax 1.2.apk<br/>
 Experiment 1.4.1.apk<br/>
 Fishy Rush 1.0.2.apk<br/>
+FC-1986 1.0.apk<br/>
 FlyingЪtoЪtheЪMoon 1.115.apk<br/>
 Futrino 1.0.apk<br/>
+Greedy Mouse 1.8.apk<br/>
 Greenies Little Adventure 1.0.apk<br/>
 Harpoons 1.0.apk<br/>
 Hero of Many 1.04.apk<br/>
@@ -74,7 +70,9 @@ Retroball 1.1.apk<br/>
 Royal Offense 1.652.apk<br/>
 Saturday Morning RPG 1.2e.apk<br/>
 Sheep in Hell 1.1.1.apk<br/>
-Super Mega Worm 1.1.2.apk
+Super Mega Worm 1.1.2.apk<br/>
+SQ2k 1.32.apk<br/>
+Swamp Golf 1.0.apk
 </details>
 
 <details>
@@ -98,5 +96,6 @@ Tales of Illyria 1 3.57.apk<br/>
 Tales of Illyria 2 3.55.apk
 </details>
 
-Games not listed here aren't tested but not compatible/ major flaws/ no supported controller/ etc.
+> [!NOTE]
+> Games not listed here are tested but not compatible/ have major flaws/ no supported controller/ lags / etc.
 
