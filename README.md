@@ -4,7 +4,7 @@ Assets such as forwarders (APK launcher for actual GameStick games on OUYA), ima
 These files are intended for use in the [GameStick Fans project](https://codeberg.org/gamestick-fans) and the [ouya-game-data project](https://github.com/ouya-saviors/ouya-game-data)
 
 <details>
-<summary>Games with launcher</summary>
+<summary> ✅ Games with launcher</summary>
 Dark Incursion 1.0.7.apk<br/>
 Expendable Rearmed 1.1.3.apk<br/>
 Final Fwy 2R 1.8.12.0.apk<br/>
@@ -19,7 +19,7 @@ Ski Safari 1.4.2.apk<br/>
 </details>
 
 <details>
-<summary>Games with planned launcher</summary>
+<summary> ⌛ Games with planned launcher</summary>
 Animal Battle 1.0.7.apk<br/>
 Battlebow Shoot the Demons HD 2.1.apk<br/>
 Bionfly 1.2.0.apk<br/>
@@ -33,7 +33,7 @@ Retroid 1.0.0.apk<br/>
 </details>
 
 <details>
-<summary>Games already available native on OUYA (no launcher planned)</summary>
+<summary> 🎮 Games already available native on OUYA (no launcher planned)</summary>
 100 Rogues 1.0.apk<br/>
 123 Animal Math Games for Kids 1.2.apk<br/>
 4-Color Taxi 1.0.apk<br/>
@@ -76,7 +76,7 @@ Swamp Golf 1.0.apk
 </details>
 
 <details>
-<summary>Games not tested so far</summary>
+<summary> ❓ Games not tested so far</summary>
 Muffin Knight 1.9.1.apk<br/>
 Soccertron 14.07.28.apk<br/>
 SoldierNightmare 4.0.apk<br/>
