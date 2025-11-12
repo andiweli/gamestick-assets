@@ -4,6 +4,11 @@ Assets such as forwarders (APK launcher for actual GameStick games on OUYA), ima
 These files are intended for use in the [GameStick Fans project](https://codeberg.org/gamestick-fans) and the [ouya-game-data project](https://github.com/ouya-saviors/ouya-game-data)
 
 <details>
+<summary>Games with launcher</summary>
+  more to come
+</details>
+
+<details>
 <summary>Games with planned launcher</summary>
 Animal Battle 1.0.7.apk<br/>
 Asteroid 2012 3D 1.0.6.apk<br/>
