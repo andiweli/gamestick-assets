@@ -5,7 +5,17 @@ These files are intended for use in the [GameStick Fans project](https://codeber
 
 <details>
 <summary>Games with launcher</summary>
-  more to come
+Dark Incursion 1.0.7.apk<br/>
+Expendable Rearmed 1.1.3.apk<br/>
+Final Fwy 2R 1.8.12.0.apk<br/>
+Fist Of Awesome 1.1.apk<br/>
+Galaga Special Edition 1.0.1.apk<br/>
+Particle Arcade Shooter 2.1.apk<br/>
+POP SnF 2.0.1.apk<br/>
+Reckless Getaway 1.0.0.apk<br/>
+Riptide GP 1.6.2.apk<br/>
+RiseOfGlory 1.0.0.apk<br/>
+Ski Safari 1.4.2.apk<br/>
 </details>
 
 <details>
@@ -13,29 +23,16 @@ These files are intended for use in the [GameStick Fans project](https://codeber
 Animal Battle 1.0.7.apk<br/>
 Asteroid 2012 3D 1.0.6.apk<br/>
 Battlebow Shoot the Demons HD 2.1.apk<br/>
-Bereits auf OUYA<br/>
 Bionfly 1.2.0.apk<br/>
-Dark Incursion 1.0.7.apk<br/>
-Expendable Rearmed 1.1.3.apk<br/>
 Falling Bird 1.3.apk<br/>
 FC-1986 1.0.apk<br/>
-Fertige Launcher<br/>
-Final Fwy 2R 1.8.12.0.apk<br/>
-Fist Of Awesome 1.1.apk<br/>
 Fox Tales 1.03.apk<br/>
-Galaga Special Edition 1.0.1.apk<br/>
 Greedy Mouse 1.8.apk<br/>
 Icy Tower 1.2.8.apk<br/>
 Magic Rampage 1.8.5.apk<br/>
 Magnetoid 1.0.9.apk<br/>
 Metaloid Reactor Guardian 1.0.3.apk<br/>
-Particle Arcade Shooter 2.1.apk<br/>
-POP SnF 2.0.1.apk
-Reckless Getaway 1.0.0.apk
 Retroid 1.0.0.apk<br/>
-Riptide GP 1.6.2.apk<br/>
-RiseOfGlory 1.0.0.apk<br/>
-Ski Safari 1.4.2.apk<br/>
 SkyHero 1.0.apk<br/>
 SQ2k 1.32.apk<br/>
 Swamp Golf 1.0.apk
