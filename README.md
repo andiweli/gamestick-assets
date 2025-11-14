@@ -5,26 +5,14 @@ These files are intended for use in the [GameStick Fans project](https://codeber
 
 ## Currently in testing
 
-Bloo Kid ✔  
-Cro-Mag Rally ✔  
-ExZeus ✘ (won't load after logo)  
-Haunt the House Terrortown_1.2.1_air.air.com.sfbgames.HauntTheHouseTerrortown.apk ✘ (game are only 1/4 of screen, rotates 90deg when closing)  
-Indy 500 ✘ (won't load after logo)  
-PAC-MAN TOURNAMENTS_1.0.1_com.namcobandaigames.gamestick.pacmantournaments.apk ✘ (only 1 of 3 gamemodes available)  
-Repulze ✔  
-ShaqDown_1.3.0_com.playjam.shaqdown.apk ✘ (can't enter pausemenu again)  
-Smash Cops ✘ (no stable menu navigation)  
-The Button Affair ✘ (buttons mixed up: U=A, A=U and Y=L Shoulder)  
-The Chronicles of Pandora ✘ (lag when enemies)  
-The Other Brothers_1.1_com.tobgame.tob.apk ✘ (no stable menu navigation)  
-Top Gear Stunt School ✘ (every first launch crashes app)  
-Turbo Fly ✔  
-Zombie Kill of the Week_1.2.5_com.panicartstudios.zkotw.apk ✔
+none
 
 ## Overview
 
 <details>
 <summary> ✅ Games with launcher</summary>
+Bionfly_1.2.0_com.theOmenbit.Bionfly.apk<br>
+Bloo Kid_1.0_de.eiswuxe.blookid.apk<br>
 Dark Incursion_1.0.7_com.bigbluebubble.darkincfull.apk<br>
 Expendable Rearmed_1.1.3_com.retrobomb.expendablerearmed.apk<br>
 Final Freeway 2R_1.8.12.0_com.oyatsukai.finalfwy2r.apk<br>
@@ -32,15 +20,18 @@ Galaga Special Edition_1.0.1_com.namcobandaigames.gamestick.galagase.apk<br>
 Particle Arcade Shooter_2.1_com.dianoxgames.particle.apk<br>
 Prince of Persia The Shadow and the Flame_2.0.1_com.ubisoft.princeofpersia.shadowandflame.ggp.apk<br>
 Reckless Getaway_1.0.0_com.pixelbite.Getaway.apk<br>
+Repulze_1.0.0_com.pixelbite.Repulze.apk<br>
 Riptide_1.6.2_com.vectorunit.bluegamestick.apk<br>
 RiseOfGlory_1.0.0_com.namcobandaigames.gamestick.riseofglory.apk<br>
-Ski Safari_1.4.2_com.DefiantDev.SkiSafari.apk
+Ski Safari_1.4.2_com.DefiantDev.SkiSafari.apk<br>
+TurboFly HD_2.17_net.osaris.turbofly.apk<br>
+Zombie Kill of the Week_1.2.5_com.panicartstudios.zkotw.apk
 </details>
 
 <details>
 <summary> ⌛ Games with planned launcher (already tested)</summary>
 Battlebow - Shoot the Demons HD_2.1_com.michaelbuettner.battlebowgamestick.apk<br>
-Bionfly_1.2.0_com.theOmenbit.Bionfly.apk<br>
+Cro-Mag Rally_1.2.1_com.citizen12.cromag.apk<br>
 Falling Bird_1.3_com.oneleggedseagull.fallingbird.apk<br>
 Fox Tales_1.03_com.wonosoft.foxtalestheskeletonking.apk<br>
 Icy Tower_1.2.8_com.freelunchdesign.icytowerclassic.apk<br>
@@ -147,6 +138,20 @@ unwind_1.4.2_com.jijjy.unwindpro.apk<br>
 Wasteland Bar Fight_1.08_com.kybernesis.wastelandbarfight.apk<br>
 </details>
 
+<details>
+<summary> 🪲 Games not compatible</summary>
+ExZeus (won't load after logo)<br/>
+Haunt the House Terrortown_1.2.1_air.air.com.sfbgames.HauntTheHouseTerrortown.apk (game are only 1/4 of screen, rotates 90deg when closing)<br/>
+Indy 500 (won't load after logo)<br/>
+PAC-MAN TOURNAMENTS_1.0.1_com.namcobandaigames.gamestick.pacmantournaments.apk (only 1 of 3 gamemodes available)<br/>
+ShaqDown_1.3.0_com.playjam.shaqdown.apk (can't enter pausemenu again)<br/>
+Smash Cops (no stable menu navigation)<br/>
+The Button Affair (buttons mixed up: U=A, A=U and Y=L Shoulder)<br/>
+The Chronicles of Pandora (lag when enemies)<br/>
+The Other Brothers_1.1_com.tobgame.tob.apk (no stable menu navigation)<br/>
+Top Gear Stunt School (every first launch crashes app)
+</details>
+
 > [!NOTE]
-> Games not listed here are tested but not compatible/ have major flaws/ no supported controller/ lags / etc.
+> Other not listed here are tested but not compatible/ have major flaws/ no supported controller/ lags / etc.
 
