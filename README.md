@@ -9,12 +9,12 @@ Bloo Kid ✔
 Cro-Mag Rally ✔  
 ExZeus ✘ (won't load after logo)  
 Indy 500 ✘ (won't load after logo)  
-Repulze  
-Smash Cops  
-The Button Affair  
+Repulze ✔  
+Smash Cops ✘ (no stable menu navigation)  
+The Button Affair ✘ (buttons mixed up: U=A, A=U and Y=L Shoulder)  
 The Chronicles of Pandora ✘ (lag when enemies)  
-Top Gear Stunt School  
-Turbo Fly  
+Top Gear Stunt School ✘ (every first launch crashes app)  
+Turbo Fly ✔  
 
 ## Overview
 
