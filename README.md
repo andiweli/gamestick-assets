@@ -8,13 +8,18 @@ These files are intended for use in the [GameStick Fans project](https://codeber
 Bloo Kid ✔  
 Cro-Mag Rally ✔  
 ExZeus ✘ (won't load after logo)  
+Haunt the House Terrortown_1.2.1_air.air.com.sfbgames.HauntTheHouseTerrortown.apk  
 Indy 500 ✘ (won't load after logo)  
+PAC-MAN TOURNAMENTS_1.0.1_com.namcobandaigames.gamestick.pacmantournaments.apk  
 Repulze ✔  
+ShaqDown_1.3.0_com.playjam.shaqdown.apk  
 Smash Cops ✘ (no stable menu navigation)  
 The Button Affair ✘ (buttons mixed up: U=A, A=U and Y=L Shoulder)  
 The Chronicles of Pandora ✘ (lag when enemies)  
+The Other Brothers_1.1_com.tobgame.tob.apk  
 Top Gear Stunt School ✘ (every first launch crashes app)  
 Turbo Fly ✔  
+Zombie Kill of the Week_1.2.5_com.panicartstudios.zkotw.apk
 
 ## Overview
 
@@ -123,13 +128,10 @@ Cube Defender_1.0_com.parkpossegames.cubedefender.gamestick.apk<br>
 Cyberflow_1.2.1_com.LarissaDavidova.Cyberflow_GS.apk<br>
 Epic Eric_1.0_com.twothreetwo.EpicEric.apk<br>
 Freeesh_1.5.5_com.realtechvr.freeesh.apk<br>
-Haunt the House Terrortown_1.2.1_air.air.com.sfbgames.HauntTheHouseTerrortown.apk<br>
 Hazard Rush_1.0.9_com.surrealstreet.hazardrushaugs.apk<br>
 Miseria_1.0_com.RatJarGames.Miseria.apk<br>
 Momonga Pinball Adventures_1.2_com.paladinstudios.momonga.apk<br>
-PAC-MAN TOURNAMENTS_1.0.1_com.namcobandaigames.gamestick.pacmantournaments.apk<br>
 Sela The Space Pirate_1.0_com.feili.SelaTheSpacePirate.apk<br>
-ShaqDown_1.3.0_com.playjam.shaqdown.apk<br>
 Soldier Nightmare_4.0_com.georgegames.soldiernightmare.apk<br>
 Sound Ride_1.16_com.outofthebit.soundride.apk<br>
 Space Ax_1.0_dk.houseonfire.gamestick.spaceaxe.apk<br>
@@ -138,13 +140,11 @@ SpaceCat_2.0.5_com.thepilltree.spacecat.apk<br>
 Stop The Birds_1.4_com.haybyte.stopthebirds.apk<br>
 Super Grid Run_1.0.3_com.Refresh_Creations_Ltd.Super_Grid_Run.apk<br>
 Tales of Pocoro_1.2.1_eu.curvedcat.talesofpocoro.apk<br>
-The Other Brothers_1.1_com.tobgame.tob.apk<br>
 The Tribloos 2_2.3_com.Tribloos2.apk<br>
 Towelfight 2 The Monocle of Destiny_1.1.20_com.bscotch.towelfight2.apk<br>
 TURBINE_1.0_com.georgegames.turbine.apk<br>
 unwind_1.4.2_com.jijjy.unwindpro.apk<br>
 Wasteland Bar Fight_1.08_com.kybernesis.wastelandbarfight.apk<br>
-Zombie Kill of the Week_1.2.5_com.panicartstudios.zkotw.apk
 </details>
 
 > [!NOTE]
