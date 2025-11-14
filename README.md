@@ -8,18 +8,18 @@ These files are intended for use in the [GameStick Fans project](https://codeber
 Bloo Kid ✔  
 Cro-Mag Rally ✔  
 ExZeus ✘ (won't load after logo)  
-Haunt the House Terrortown_1.2.1_air.air.com.sfbgames.HauntTheHouseTerrortown.apk  
+Haunt the House Terrortown_1.2.1_air.air.com.sfbgames.HauntTheHouseTerrortown.apk ✘ (game are only 1/4 of screen, rotates 90deg when closing)  
 Indy 500 ✘ (won't load after logo)  
-PAC-MAN TOURNAMENTS_1.0.1_com.namcobandaigames.gamestick.pacmantournaments.apk  
+PAC-MAN TOURNAMENTS_1.0.1_com.namcobandaigames.gamestick.pacmantournaments.apk ✘ (only 1 of 3 gamemodes available)  
 Repulze ✔  
-ShaqDown_1.3.0_com.playjam.shaqdown.apk  
+ShaqDown_1.3.0_com.playjam.shaqdown.apk ✘ (can't enter pausemenu again)  
 Smash Cops ✘ (no stable menu navigation)  
 The Button Affair ✘ (buttons mixed up: U=A, A=U and Y=L Shoulder)  
 The Chronicles of Pandora ✘ (lag when enemies)  
-The Other Brothers_1.1_com.tobgame.tob.apk  
+The Other Brothers_1.1_com.tobgame.tob.apk ✘ (no stable menu navigation)  
 Top Gear Stunt School ✘ (every first launch crashes app)  
 Turbo Fly ✔  
-Zombie Kill of the Week_1.2.5_com.panicartstudios.zkotw.apk
+Zombie Kill of the Week_1.2.5_com.panicartstudios.zkotw.apk ✔
 
 ## Overview
 
